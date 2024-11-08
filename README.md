@@ -13,11 +13,11 @@ I am eager to join a forward-thinking team where I can apply my skills, continue
 ## Featured Projects
 - **Project 1: CI Process For Notes Application**  
   A CI pipeline for a Node.js-based notes application, automating code linting, testing, and artifact generation for streamlined development and deployment.  
-  [Request Acecss](mailto:JDoolanTech@gmail.com) | [Repository Link (access required)](https://github.com/JDoo2002/CI_Process_For_Application)
+  [Request Access](mailto:JDoolanTech@gmail.com) | [Repository Link (access required)](https://github.com/JDoo2002/CI_Process_For_Application)
   
 - **Project 2: Automated AWS Deployment**  
   An automated infrastructure deployment system for AWS using Terraform, Ansible, and GitHub Actions.
-  [Request Acecss](mailto:JDoolanTech@gmail.com) | [Repository Link (access required)](https://github.com/JDoo2002/Automated_AWS_Deployment)
+  [Request Access](mailto:JDoolanTech@gmail.com) | [Repository Link (access required)](https://github.com/JDoo2002/Automated_AWS_Deployment)
 
 ## Skills
 - Programming Languages: Python, JavaScript
